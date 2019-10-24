@@ -1,4 +1,6 @@
-[![Build Status](https://dev.azure.com/prathyushpavan/TailSpin/_apis/build/status/prathyush244u.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/prathyushpavan/TailSpin/_build/latest?definitionId=7&branchName=master)
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=learn)](https://sonarcloud.io/dashboard?id=learn)
+
 
 # Contributing
 
